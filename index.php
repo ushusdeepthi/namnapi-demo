@@ -9,9 +9,9 @@ header("Referrer-Policy: no-referrer");
 header("Content-Type: application/json; charset=UTF-8");
 //steg2- skapa arrayer
 $firstNames =
-    ["Åsa", "Mahmud", "Björn", "Jimmy", "Deepthi", "F6", "F7", "F8", "F9", "F10"];
+    ["Åsa", "Mahmud", "Björn", "Jimmy", "Deepthi", "Sara", "Anna", "Stephy", "Smith", "viktor"];
 $lastNames =
-    ["Öberg", "Al Hakim", "Ushus", "L4", "L5", "L6", "L7", "L8", "L9", "L10"];
+    ["Öberg", "Al Hakim", "Ushus", "Carlsson", "Jacob", "Åstrand", "Svensson", "Brenchman", "Johansson", "Rikardsson"];
 
 //steg 3 Skapa 10 namn och spara dessa i en ny array
 $names=array();
